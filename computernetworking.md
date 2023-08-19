@@ -13,3 +13,17 @@
 ###  [Layer 3 Devices]
 - MLS- multilayer switch- It provides layer 2 network switching services
 - Router- It connects different networks together
+
+## Protocols
+1. TCP
+2. UDP
+3. HTTP
+
+## Topology
+1. BUS
+2. RING
+3. STAR
+4. TREE
+5. MESH
+
+
