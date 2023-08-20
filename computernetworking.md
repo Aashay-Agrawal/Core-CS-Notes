@@ -26,4 +26,11 @@
 4. TREE
 5. MESH
 
+## TCP/IP
+- Kinda OSI but with 5 layers
+1. Application
+2. Transport
+3. Network
+4. Data Link
+5. Physical
 
