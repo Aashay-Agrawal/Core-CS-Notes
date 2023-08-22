@@ -28,9 +28,21 @@
 
 ## TCP/IP
 - Kinda OSI but with 5 layers
-1. Application
-2. Transport
+1. Application 
+2. Transport  
 3. Network
 4. Data Link
 5. Physical
+
+## Cookies
+- Unique string, stored in my browser
+
+## How Email works?
+Sender -> sender's SMPT server -> Reciver SMPT server -> Recevier
+
+## DNS [Domain Name System]
+The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+
+
+
 
